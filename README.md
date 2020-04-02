@@ -54,3 +54,4 @@ Please refer to the [style guide](https://github.com/MIT-LCP/mimic-code/blob/mas
 ## Building MIMIC
 
 A Makefile build system has been created to facilitate the building of the MIMIC database, and optionally contributed views from the community. Please refer to the [Makefile guide](https://github.com/MIT-LCP/mimic-code/blob/master/Makefile.md) for more details.
+2020-4-2 13:57:15
